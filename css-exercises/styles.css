@@ -1,3 +1,22 @@
+h1 {
+  color: blue;
+  font-family: Verdana;
+}
+
 p {
   color:red;
+}
+
+#id1 {
+  color: red;
+  font-family: Comic Sans MS; 
+}
+
+.greenc {
+  color: green;
+  text-align: center;
+}
+
+.yellow p {
+  color: yellow;
 }
