@@ -1,0 +1,27 @@
+.bluepara {
+      color: blue;
+}
+
+.Bordpara {
+  border: 2px dotted violet;
+}
+
+.Bgpara {
+  background-color: lightblue;
+}
+
+.Bgipara {
+  background-image: url("https://goo.gl/jcdXn2")
+}
+
+.centerpara {
+  text-align: center;
+}
+
+.fontpara {
+  font-family: "Comic Sans MS", Times, serif;
+}
+
+.spicypara {
+  font: bold 100px "Comic Sans MS";
+}
