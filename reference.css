@@ -1,0 +1,28 @@
+/* Main Headings */
+h1 {
+  background-color: Blue;
+  text-align: center;
+  font: bold 25px "Calibri"
+  border: 3px solid black;
+}
+
+/* Secondary Headings */
+h2 {
+  background-color: LightBlue ;
+  width: 150px;
+  text-align: center;
+  font: 25px "Calibri"
+}
+
+th {
+  background-color: blue;
+}
+
+table {
+  font: 25px "Calibri";
+}
+
+p {
+  font: 25px "Calibri";
+  
+}
