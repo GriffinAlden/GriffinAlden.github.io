@@ -24,5 +24,8 @@ table {
 
 p {
   font: 25px "Calibri";
-  background-color: grey; 
+}
+
+tr {
+  background-color: light-green;
 }
