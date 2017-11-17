@@ -1,0 +1,53 @@
+.content {
+  background-color:#f7e6ff;
+}
+
+.content p {
+  font-family:"Ariel", sans-serif;
+  color:black;
+}
+
+img {
+  width:100%;
+}
+
+.imgHead{
+    background: url(https://griffinalden.github.io/images/10222_tom-clancys-rainbow-six-siege-prev.png); 
+ 
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  padding: 200px;
+}
+
+p {
+  padding: 20px;
+  background-color: white;
+}
+
+.imgPara{
+    background: url(https://griffinalden.github.io/images/Black-Dark-Spot-White-Texture-Background-Pattern-WallpapersByte-com-1920x1080.jpg); 
+ 
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+
+}
+
+h2 {
+  background-color: white;
+  text-align: center;
+}
+
+.video {
+  height: 75%;
+  width: 100%;
+}
+
+ul {
+  background-color: white;
+}
+
+table {
+  background-color: white;
+}
